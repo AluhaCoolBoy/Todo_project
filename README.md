@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/77938117/198930567-908b60f0-437d-4c76-9b0d-7a388a56378d.png)
 
 
-## Wrong
+## Wrong authentication 
 
 ![image](https://user-images.githubusercontent.com/77938117/198930690-2c8d151d-3bb8-4f59-a7c3-eeeff0d99d8c.png)
 
